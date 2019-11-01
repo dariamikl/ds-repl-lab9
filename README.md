@@ -72,3 +72,8 @@ helm install --name chatty ./app
 - Profit 👍👍👍
 
 ![](https://i.imgur.com/zruhJ66.png)
+
+- Pushing to Docker Hub:
+```
+docker push dariamikl/chatty-app:latest
+```
