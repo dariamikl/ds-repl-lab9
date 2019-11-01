@@ -77,3 +77,4 @@ helm install --name chatty ./app
 ```
 docker push dariamikl/chatty-app:latest
 ```
+- Docker Hub link: https://hub.docker.com/r/dariamikl/chatty-app
