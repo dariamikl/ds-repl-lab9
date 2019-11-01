@@ -1,6 +1,8 @@
 # Lab 9 Report
 ### By Miklashevskaya Daria, DS-02
 
+In this lab, I decided to implement the part with Kubernetes for additional points.
+
 
 - First, turn on Kubernetes on Docker
 ![](https://i.imgur.com/EJmvXuT.jpg)
